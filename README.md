@@ -27,8 +27,8 @@ Users should be able to:
 
 ## Links
 
-* Solution URL: 
-* Live Site URL: Add your live project URL here
+* Repository URL: https://github.com/Shivam-prajapati-607/Social-Links-Profile
+* Live Site URL:
 
 ## My Process
 
