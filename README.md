@@ -28,7 +28,7 @@ Users should be able to:
 ## Links
 
 * Repository URL: https://github.com/Shivam-prajapati-607/Social-Links-Profile
-* Live Site URL:
+* Live Site URL:  https://shivam-prajapati-607.github.io/Social_Link_Profile/
 
 ## My Process
 
